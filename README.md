@@ -6,6 +6,11 @@ This framework is an awesome project from Axford, but it appears to have been ab
 
 Everythng below is from the original project.
 
+**usage info:**
+Set UseSTL in the main scad file to false to directly see the changes in the viewer
+Set DebugConnectors to true to see de connection points.
+
+
 # OpenSCAD for Machine Design framework
 
 ## Overview
